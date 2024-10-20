@@ -1,0 +1,15 @@
+# pycache
+__pycache__/
+
+# others
+venv/
+output/
+
+# file formats
+*.pyc
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.webm
+*.gif
